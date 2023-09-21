@@ -1,7 +1,2 @@
-echo "# Grip_internship" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/emerging-pc/Grip_internship.git
-git push -u origin main
+TSF-GRIP-SEPTEMBER-2023
+This repository contains all the projects created by me for the The Graduate Rotational Internship Program under The Sparks Foundation for the month of September 2023
